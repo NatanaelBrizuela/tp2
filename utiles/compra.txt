@@ -1,0 +1,7 @@
+arroz      152
+pasta      18
+NOSEECNUETRA    2
+tomates    12
+pollo   90
+aceite  6
+caramelos   6

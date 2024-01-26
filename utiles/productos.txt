@@ -1,0 +1,5 @@
+lapices	900	0	99
+caramelos	50	1	194
+azucar	899	0	20
+nueces	122	0	33
+leche	2500	1	20
